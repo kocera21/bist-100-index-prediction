@@ -189,9 +189,11 @@ All model notebooks automatically load `data/processed/Xtable.csv` for training 
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Author
+## Authors
 
-Burak
+- **Alaattin Burak Koçer**
+- **Necati Vural**
+- **Yiğit Yılmaz Yanç**
 
 ## Disclaimer
 
